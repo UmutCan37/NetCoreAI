@@ -32,27 +32,47 @@ Bu repo bir "AI Playground" niteliğindedir 💡
 
 Her klasör bağımsız bir mini projedir:
 
-Proje	Açıklama
-Project01_ApiDemo	Basit API kullanımı
+Proje	Açıklama 
+Project01_ApiDemo	Basit API kullanımı 
+
 Project02_ApiConsumeUI	UI üzerinden API tüketimi
+
 Project03_RapidApi	RapidAPI entegrasyonu
+
 Project04_OpenAIChat	ChatGPT benzeri sohbet uygulaması
+
 Project05_OpenAIWhisperAudioTranskrip	Ses dosyasını metne çevirme
+
 Project06_DallEImageGeneration	AI ile görsel üretimi
+
 Project07_TesseractOcr	OCR ile görselden yazı okuma
+
 Project08_GoogleCloudVision	Google Vision API kullanımı
+
 Project09_OpenAITranslate	Metin çeviri
+
 Project10_TextToSpeech	Metni sese dönüştürme
+
 Project11_OpenAITextToSpeech	OpenAI TTS kullanımı
+
 Project12_OpenAISentiment	Duygu analizi
+
 Project13_OpenAISentimentWithDegree	Dereceli duygu analizi
+
 Project14_OpenAIArticalSummarize	Makale özetleme
+
 Project15_WebScraping	Web scraping
+
 Project16_OpenAIPdfAnalyze	PDF analiz
+
 Project17_GoogleCloudVisionImageDetection	Görüntü nesne tanıma
+
 Project18_OpenAINewsSummarizeWithRSS	RSS haber özetleme
+
 Project19_OpenAICreateStory	Hikaye oluşturma
+
 Project20_RecipeSuggestionWithOpenAI	Tarif öneri sistemi
+
 🛠️ Kullanılan Teknolojiler
 
 ✅ .NET 8
